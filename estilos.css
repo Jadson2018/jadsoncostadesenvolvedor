@@ -1,0 +1,46 @@
+.fundo {
+    background-color: white;
+}
+.brand {
+    font-family: "Urbanist", serif;
+    font-optical-sizing: auto;
+}
+.titulo {
+    font-family: "Urbanist", serif;
+    font-optical-sizing: auto;
+    text-align: center;
+}
+
+.texto{
+    text-align: justify;
+} 
+
+.secao-projetos {
+    background:white;
+    color: black;
+}
+
+.projeto {
+    text-align: center;
+}
+
+.icone {
+    font-size: 120px;
+    color:white
+}
+
+.footer {
+    background-color:#0275d8;
+}
+
+.social-box {
+    float: right;
+    background-color:#0275d8;
+    display: inline;
+}
+
+.contact-box {
+    font-family: "Urbanist", serif;
+    font-optical-sizing: auto;
+    color: white
+}
