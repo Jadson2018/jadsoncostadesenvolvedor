@@ -1,5 +1,5 @@
 .fundo {
-    background-color: white;
+    background-color:#0275d8;
 }
 .brand {
     font-family: "Urbanist", serif;
@@ -9,15 +9,22 @@
     font-family: "Urbanist", serif;
     font-optical-sizing: auto;
     text-align: center;
+    color:black
 }
 
 .texto{
     text-align: justify;
 } 
 
-.secao-projetos {
+.secao-apresentacao {
+    background-color: white;
     background:white;
-    color: black;
+}
+
+.secao-projetos {
+    background-image:url('imagens/fundosky.png');
+    color: white;
+    background-size: 100% 100%;
 }
 
 .projeto {
