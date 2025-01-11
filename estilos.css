@@ -1,5 +1,6 @@
 .fundo {
     background-color:#0275d8;
+    overflow-x: hidden;
 }
 .brand {
     font-family: "Urbanist", serif;
@@ -50,4 +51,8 @@
     font-family: "Urbanist", serif;
     font-optical-sizing: auto;
     color: white
+}
+
+.secao-servicos {
+    background-color: white;
 }
